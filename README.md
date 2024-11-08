@@ -1,4 +1,4 @@
-# ArquiteturaServless
+# ArquiteturaServerless
 Arquitetura Serverless AWS
 
     Hoje compartilho feliz minha primeira Arquitetura AWS, que foi elaborada em conjunto com os colegas Rafael Silva Willians e Wagner Lopes no último final de semana. 

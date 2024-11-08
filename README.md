@@ -1,5 +1,5 @@
 # ArquiteturaServless
-Arquitetura Servless AWS
+Arquitetura Serverless AWS
 
     Hoje compartilho feliz minha primeira Arquitetura AWS, que foi elaborada em conjunto com os colegas Rafael Silva Willians e Wagner Lopes no último final de semana. 
      No início, quando fui mexer no draw.io tomei uma coça kkkk, recebi algumas informações dos colegas, fiz algumas pesquisas, pratiquei bastante e consegui concluir esta manhã o projeto no qual havíamos definido. 
